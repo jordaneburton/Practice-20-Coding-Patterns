@@ -27,3 +27,13 @@ Here is a list of links to LeetCode and HackerRank problems for applying the 20 
 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) |
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Special String Again](https://www.hackerrank.com/challenges/special-string-again/problem) |
 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle/problem) |
+
+## Merging Intervals
+
+| LeetCode | HackerRank |
+| ----------- | ----------- |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Interval Selection](https://www.hackerrank.com/challenges/interval-selection/problem) |
+| [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro/problem) |
+| [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) |
+| [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) |
+| [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Almost Sorted Interval](https://www.hackerrank.com/challenges/almost-sorted-interval/problem) |
