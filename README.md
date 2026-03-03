@@ -18,7 +18,7 @@ Here is a list of links to LeetCode and HackerRank problems for applying the 20 
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Delete a Node (from the end)](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) |
 
-### Sliding Window
+## Sliding Window
 
 | LeetCode | HackerRank |
 | :--- | :--- |
